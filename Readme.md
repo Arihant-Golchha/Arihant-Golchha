@@ -90,7 +90,7 @@ I’m especially interested in building products where engineering quality, scal
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn Profile Link]  
+- 💼 LinkedIn: www.linkedin.com/in/arihant-golchha 
 - 💻 GitHub: https://github.com/Arihant-Golchha  
 - 📧 Email: golchhaarihant2005@outlook.com  
 
